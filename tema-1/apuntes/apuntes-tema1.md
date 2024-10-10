@@ -4,6 +4,7 @@ Las aplicaciones ERP son sistemas de gestión global para la empresa. Están com
 - Optimización de los procesos empresariales
 - Acceso a la información
 - Posibilidad de compartir información entre todos os componentes de la organización
+
 ##### PROPÓSITO DE UN ERP
 El propósito fundamental es otorgar apoyo a los clientes del negocio, tiempos rápidos de respuesta a sus problemas, así como un eficiente manejo de información que permita la toma oportuna de decisiones y disminución de los costos totales de operación
 ##### BENEFICIOS DE UN ERP
