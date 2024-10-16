@@ -1,178 +1,102 @@
-### Apache OFBiz
+### Information of Apache OFBiz
+Apache OFBiz was initially developed in 2000s by David E. Jones and Andrew Zeneski.
+In 2001, the project was donated to the Apache Software Foundation.
+On 2006, the Apache OFBiz project finished  and graduated as a top-level Apache project.
+
+-------
 #### What is Apache OFBiz?
-Apache Open For Business (OFBiz) is an open-source automation software created by the Apache Foundation. It is a complete set of business applications that help integrate and automate many of a company's business processes.
+Apache Open For Business (OFBiz) is a free software made by the Apache Foundation. It's a set of business tools that help companies do their work more easily. 
 
 -------------------
-#### In which sectors is it applied?
-Apache OFBiz is applied across various sectors and industries due to its flexibility and customizable nature. Here are some of the key sectors where Apache OFBiz is commonly used:
+#### Licencing
+Apache OFBiz is licensed under the Apache License Version 2.0 (ASL2). This includes that people can change the software and share
 
-##### Main sectors
+------------
+#### Sectors Using Apache OFBiz
 **Information Technology and Services**  
-Apache OFBiz is widely adopted in the IT and services industry, particularly by companies with 10-50 employees and revenues between $1M-$10M
+Apache OFBiz are used for business with 10-50 employees and entry between $1M-$10M.
 
-**Manufacturing**  
-The manufacturing sector utilizes Apache OFBiz for its enterprise resource planning (ERP) capabilities, including inventory management and production planning
+**Manufacturing**  (facturación)
+This sector used Apache OFBiz for inventory and production planning. Uses the system to optimize operations and reduce waste (desperdiciar).
 
-**Retail and E-commerce**  
-Apache OFBiz provides robust e-commerce functionalities, making it popular among retail businesses for managing online stores and order processing[
-
-**Accounting and Finance**  
-The framework offers accounting modules like General Ledger, Accounts Receivable, and Accounts Payable, making it suitable for financial services companies
+**E-commerce**  
+Apache OFBiz provides advanced functionality for online stores, order processing (procesamiento de pedidos) and customer relationships (relaciones con los clientes)
 
 -----------------
-#### Licenciamiento
-Apache OFBiz is licensed under the Apache License Version 2.0 (ASL2).
 
------------------
-#### Infraestructura
-Apache OFBiz offers flexibility in terms of where you can collect and store information, allowing for both local server (on-premises) and cloud deployment options
+#### Apache OFBiz Infrastructure
+Apache OFBiz offers flexibility to businesses to choose between on-premises and cloud infrastructure. 
 ##### Local Server (On-Premises) Deployment
-Apache OFBiz can be installed and run on a local server within your business premises:
-1. You can download the OFBiz software and install it on your own servers
-2. This gives you full control over your data and infrastructure.
-3. It requires you to manage your own hardware, maintenance, and security.
+Apache OFBiz can be installed and run on local servers, providing businesses with full control over their data and infrastructure. 
 ##### Cloud Deployment
-Apache OFBiz also supports cloud deployment options:
+OFBiz supports various cloud deployment solutions, including availability on AWS Marketplace as an Amazon Machine Image (AMI) and options for container solutions in cloud environments.
 
-1. **AWS Marketplace**: OFBiz is available as an Amazon Machine Image (AMI) on AWS Marketplace, allowing for easy cloud deployment
-2. **Container Solutions**: OFBiz offers container solutions that can be deployed in cloud environments like Amazon Elastic Container Service (ECS)
-3. Cloud deployment provides benefits such as scalability, accessibility, and reduced maintenance overhead.
+(OFBiz admite varias soluciones de despliegue en la nube, incluida la disponibilidad en AWS Marketplace como imagen de máquina de Amazon (AMI) y opciones para soluciones de contenedor en entornos de nube.)
+
 ------------------
-#### Coste
-Apaache an open-source framework, all components of Apache OFBiz are entirely free to use under the terms of the license
+#### Cost
+Apache is an open-source framework, all components of Apache OFBiz are  free to use under the terms of the license
 
 -------------
 #### Partner en España
-Based on the search results provided, there is no specific information about Apache OFBiz partners in Spain. However, I can provide some general insights about Apache OFBiz partnerships and how you might find potential partners or support in Spain:
-
-1. Community Support: Apache OFBiz has an active community of users and developers worldwide. While not specific to Spain, this community can provide support and resources.
-2. Third-Party Implementers: Many businesses work with OFBiz experts and third-party implementers for larger implementations and customizations. These implementers may operate internationally.
-3. Open Source Nature: As an open-source project, Apache OFBiz allows for a diverse ecosystem of developers and service providers, which may include companies or individuals in Spain.
-4. International Reach: Apache Software Foundation projects like OFBiz often have a global reach, so there may be partners or support options available that serve Spain, even if not exclusively based there.
-
-To find potential partners or support in Spain, you could:
-
-1. Check the Apache OFBiz community forums or mailing lists for Spanish users or companies.
-2. Search for Spanish IT consulting firms or ERP implementers that specialize in open-source solutions.
-3. Attend open-source or ERP-focused technology events in Spain to network with potential partners.
-4. Reach out to the Apache OFBiz community directly to inquire about Spanish-speaking contributors or companies working with OFBiz in Spain.
-
-While I couldn't find specific information about partners in Spain, these approaches might help you identify local resources or support for Apache OFBiz implementation and customization.
+Apache OFBiz doesn't have a list of specific partners in Spain. But have the community and companies to recived support
 
 ---
-#### Ofertas de empleo con información del salario
-Based on the search results provided, there is no specific information about the number of job offers for Apache OFBiz. However, I can provide some relevant insights about the job market for Apache OFBiz developers:
+#### Employment and Salary
+Many companies use Apache OFBiz, so there are jobs available.
+Salaries range from $90,000 to $120,000 a year in the US.
 
-1. Demand for Apache OFBiz skills: While exact numbers aren't given, the search results indicate that there is a market for Apache OFBiz developers. Companies of various sizes and industries use Apache OFBiz, suggesting ongoing demand for related skills
-2. Specialized role: Apache OFBiz developers are considered specialized professionals, with specific skills required for customizing and implementing the ERP system[
-3. Compensation: Senior Apache OFBiz developers in the United States can expect annual earnings in the range of $90,000 to $120,000, indicating that it's a well-compensated specialization
-4. Varied company sizes: Apache OFBiz is used by both small businesses and large enterprises. Of the companies using Apache OFBiz:    
-    - 37% are small (<50 employees)
-    - 29% are medium-sized
-    - 31% are large (>1000 employees)
-5. Industry distribution: The largest segments using Apache OFBiz are:
-    
-    - Information Technology and Services (26%)
-    - Computer Software (16%)
-    - Internet (6%)
-    - Retail (5%)
-6. Geographical distribution: 42% of Apache OFBiz customers are in the United States, followed by India (18%), Germany (7%), France (6%), and the United Kingdom (6%)[
-    While these points don't provide a specific number of job offers, they suggest that there is a market for Apache OFBiz skills across various industries and company sizes, particularly in the United States and other countries mentioned. The specialized nature of the role and the competitive compensation indicate that qualified Apache OFBiz developers are likely to find opportunities in the job market.
+---------------------
 #### Customizable o ERP cerrado
-Como es un software open source permite hacer many modificaciones como
-- Modify the software
-- Add or remove components
-- Use it for personal or commercial purposes
-- Resell various components of the software
+Apache OFBiz is an open-source ERP
 
-
-
-### Dolibar
+--------
+---------
+### Dolibarr
+Dolibarr is an ERP & CRM, founded in 2002. Ther version 1.0 trows in Septiembre on 2003
 #### What is Dolibar?
-Dolibarr is an open-source ERP and CRM software designed for businesses of all sizes, including SMEs, freelancers, and large companies. Its modular architecture allows users to activate only the features they need, making it highly customizable and adaptable to various business requirements
-
--------------------
-#### In which sectors is it applied?
-Dolibarr is applied across a wide variety of business sectors due to its modular and flexible nature. Some key sectors where Dolibarr is commonly used include:
-
-## Service Industries
-
-- **Consulting firms**: For managing client relationships, projects, and billing[
-    
-    1
-    
-    ](https://datascientest.com/en/everything-about-dolibarr).
-- **IT services companies**: To handle customer support, project management, and invoicing.
-- **Marketing agencies**: For campaign management, client tracking, and reporting.
-
-## Retail and E-commerce
-
-- **Small to medium-sized retailers**: For inventory management, point-of-sale operations, and customer relationship management[
-    
-    1
-    
-    ](https://datascientest.com/en/everything-about-dolibarr)[
-    
-    2
-    
-    ](https://www.dolicloud.com/en-list-of-top-application-replaced-by-dolibarr-on-dolicloud.php).
-- **Online stores**: To integrate with e-commerce platforms and manage orders.
-
-## Manufacturing
-
-- **Small to medium-sized manufacturers**: For supply chain management, inventory tracking, and production planning[
-    
-    1
-    
-    ](https://datascientest.com/en/everything-about-dolibarr).
-- **Workshops and craftsmen**: To manage orders, stock, and customer relationships.
-
-## Non-profit and Associations
-
-- **Charities and NGOs**: For member management, donation tracking, and event organization[
-    
-    2
-    
-    ](https://www.dolicloud.com/en-list-of-top-application-replaced-by-dolibarr-on-dolicloud.php).
-- **Professional associations**: To handle membership, dues collection, and communication.
-
-## Freelancers and Small Businesses
-
-- **Independent professionals**: For invoicing, expense tracking, and client management.
-- **Small businesses**: As an all-in-one solution for various business management needs[
-    
-    1
-    
-    ](https://datascientest.com/en/everything-about-dolibarr).
-
-## Hospitality and Food Service
-
-- **Restaurants and bars**: Using the point-of-sale module for order management[
-    
-    2
-    
-    ](https://www.dolicloud.com/en-list-of-top-application-replaced-by-dolibarr-on-dolicloud.php).
-- **Small hotels**: For reservation management and invoicing.
-
-Dolibarr's modular architecture allows it to adapt to various sectors by enabling only the necessary features, making it suitable for businesses of different sizes and industries[
-
-1
-
-](https://datascientest.com/en/everything-about-dolibarr). Its open-source nature and active community also contribute to its wide applicability across sectors.
+Dolibarr is an open-source ERP and CRM system that helps different types of businesses.
 
 -----------------
-#### Licenciamiento
+#### Licensing
+Dolibarr is distributed under the GNU General Public License v3 or later, whose granting users significant freedoms (libertades). 
+
+-------------------
+#### Sectors Using Dolibarr
+##### Service Industries
+Dolibarr caters to service industries such as consulting firms, IT service providers and marketing agencies.
+
+(Dolibarr se dirige a empresas de servicios como consultoras, proveedores de servicios informáticos y agencias de marketing.)
+##### E-commerce
+Dolibarr is used in e-commerce for managing stock and sales
+##### Hospitality and Food Service
+Dolibarr supports the hospitality and food service industries with its point-of-sale modules.
+
+(Dolibarr apoya a los sectores de la hostelería y la restauración con sus módulos de punto de venta.)
 
 -----------------
 #### Infraestructura
+##### Cloud Option
+Dolibarr offers a cloud-based solution called DoliCloud, which allows users to install and use the Dolibarr ERP & CRM suite in the cloud.
+
+(Dolibarr ofrece una solución basada en la nube llamada DoliCloud, que permite a los usuarios instalar y utilizar la suite Dolibarr ERP & CRM en la nube.)
+
+##### On-Premises Option
+Companies can also choose to install Dolibarr on their local servers to controll all data and infraestructure.
 
 ------------------
-#### Coste
+#### Cost
+Cloud-based opcion cost 14€/month
+On-premises option are free
 
+------
 #### Partner en España
+Dolibarr have Spanish partner for example: ExtreHost.com, UrBerri, Lliuretic
 
 ---
-#### Ofertas de empleo con información del salario
+#### Employment and Salary
+Dolibarr doesn't have a specific number of job offers and salaries because depend the experience, location...
 
 -----
 #### Customizable o ERP cerrado
+Dolibarr is an open-source ERP and CRM 
