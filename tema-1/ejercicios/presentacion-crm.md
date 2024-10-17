@@ -1,6 +1,6 @@
 ## Copper
 #### Introduction
-Copper is a customer relationship management (CRM)platform designed for easy integration with Google Workspace.
+Copper is a customer relationship management (CRM) platform designed for easy integration with Google Workspace.
 
 -----------------
 #### Infraestructure
