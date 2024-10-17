@@ -8,10 +8,10 @@ Copper CRM uses cloud storage for all its customers, allowing greater flexibilit
 
 ---------------
 #### Database Manager
-Coper offers a cloud-based service that secret the details of the database structure to users.
+Copper offers a cloud-based service that secret the details of the database structure to users.
 
 ---------
-#### Sectors using Coper
+#### Sectors
 - **Technology**: Companies looking to automate sales processes and improve customer relationship management.
 - **Education**: Institutions that require efficient management of relationships and communication with students and parents.
 - **Marketing:** Agencies using Copper to effectively manage campaigns and client relationships.
@@ -27,21 +27,20 @@ There are no jobs related to this CRM on job sites such as Linkedin or Infojobs.
 ----------
 #### Cost
 **Basic Plan:** 
-- Cost: €19 or $25 per user per month (annual billing)   
-    - Cost: €19 or $25 per user per month (annual billing)
+    - Cost: €19 per user per month
     - Limited to 3-5 users
     - Up to 30,000 records (guardados)
     - 5 custom fields
     - 2 GB of storage
     
 **Professional Plan**    
-    - Cost: €49 or $59 per user per month (annual billing)
+    - Cost: €49 per user per month (annual billing)
     - Unlimited users
     - Up to 100,000 records
     - 25 custom fields
     - 200 GB of storage
     
-**Business Plan:** Cost: 119€ or $119 per user per month (annual billing)    
+**Business Plan:** 
     - Cost: 119€ or $119 per user per month (annual billing)
     - Unlimited users
     - Up to 500,000 records
@@ -55,18 +54,18 @@ Bitrix24 is an online platform that provides tools for business management and t
 
 -----------------
 #### Infraestructure
-**Servidores en la nube:**
-    - Bitrix24 utiliza servidores de Amazon Web Services (AWS) para su versión en la nube.
-    - Tienen centros de datos ubicados en Estados Unidos (Virginia) y en la Unión Europea (Frankfurt, Alemania).
-    - Ofrecen almacenamiento escalable desde 1 TB hasta 100 TB, dependiendo del plan.
-    - Garantizan un tiempo de actividad mensual del 99.99% y un SLA del 99.95%.
+**Cloud Servers:**
+    - Uses Amazon Web Services servers for its cloud version.
+    - The data centres are located in the United States and European Union
+    - They offer scalable storage from 1 TB to 100 TB, depending on the plan.
+    - They guarantee a monthly uptime of 99.99% and an SLA of 99.95%.
     
-**Servidores privados:**
-    - Bitrix24 ofrece una versión local que puede instalarse en los servidores propios de la empresa.
-    - Esta opción permite un control total sobre los datos y el acceso a ellos.
-    - Proporciona acceso completo al código fuente para personalizaciones.
-    - Es ideal para empresas con requisitos específicos de seguridad o que necesitan mantener los datos en sus propias instalaciones.
-    
+**Private Servers:**
+    - Offers a local version that can be installed on the company's own servers.
+    - This option allows full control over data and access to it.
+    - It provides full access to the source code for customisations.
+    - It is ideal for companies with specific security requirements or that need to keep data on their own premises.
+
 ---------------
 #### Database Manager
 Bitrix works with a "secret" database manager 
@@ -74,7 +73,7 @@ Bitrix works with a "secret" database manager
 ---------
 #### Sectors using Bitrix
 **Restaurantes:** To inventory management, sales management and digital marketing campaigns.
-**Transport:** Helps optimise internal management and develop B2B relationships. 
+**Transport:** Helps optimise internal management and develop B2B relationships.
 **Travel companies:** Adapts to the needs of travel management, task scheduling and activity planning. 
 
 ------------
@@ -88,9 +87,12 @@ There are no Bitrix24-related vacancies on the major job platforms.
 ----------
 #### Coste software
 **Free Plan:** Free, with basic CRM, invoices and calendar functions. 
-**Basic Plan:** 48.03 euros per month, for up to 5 employees. Includes more advanced CRM and other functionalities.
-**Standard Plan:** 97.04 euros per month, for companies with 50 employees. Offers advanced CRM, marketing and more storage capabilities.
-**Plan Professional:** 195.06 euros al mes, para un número ilimitado de empleados. Incluye todas las características de los planes anteriores más funciones adicionales.
-**Plan Enterprise:** Diseñado para 101 a 10,000 usuarios, con almacenamiento de 1 TB a 100 TB. El precio exacto no se menciona, pero se describe como "muy asequible".
 
-----------
+**Basic Plan:** Basic Plan: 48.03€ per month, for up to 5 employees. Includes more advanced CRM and other functionalities.
+
+**Standard Plan:** 97.04€ per month, for companies with 50 employees. Offers advanced CRM, marketing and more storage capabilities.
+
+**Professional Plan:** 195.06€ per month, for an unlimited number of employees. Includes all the features of the previous plans plus additional features.
+
+**Enterprise Plan:** Designed for 101 to 10,000 users, with storage from 1TB to 100TB. The exact price is not mentioned, but it is described as 'very affordable'.
+
