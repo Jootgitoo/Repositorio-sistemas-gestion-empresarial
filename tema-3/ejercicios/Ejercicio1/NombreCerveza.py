@@ -1,1 +1,0 @@
-print("El nombre de tu cerveza es: " +input("¿Cuál es tu equipo de futbol favorito?: ") + input("¿Cuál es tu numero favorito?: "))
