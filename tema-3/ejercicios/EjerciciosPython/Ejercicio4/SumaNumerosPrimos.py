@@ -3,6 +3,7 @@
 def es_Primo(numero):
 
     primo = False
+    suma = 0
 
     if numero < 2:
         primo = False
@@ -13,9 +14,20 @@ def es_Primo(numero):
         else:
             primo = True
 
+
+
     return primo
 
 
-print( es_Primo(11) )
+def suma_primos(numero):
 
-TERMINAR EJERCICIO 4
+    suma = 0
+
+    for i in range (numero):
+        if ( es_Primo(i) == True):
+            suma +=  i
+
+    print(suma)
+
+
+suma_primos(11)
