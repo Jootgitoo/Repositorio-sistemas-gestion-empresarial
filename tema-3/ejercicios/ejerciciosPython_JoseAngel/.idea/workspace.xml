@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6379b1fd-1b65-4a02-ab0f-16dd492c9281" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio4/Ahorcado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tema-1/apuntes/apuntes-tema1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/.idea/EjerciciosPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/.idea/EjerciciosPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio4/SumaNumerosPrimos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio4/SumaNumerosPrimos.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ozEiTVxqFCJLCbPLNWFVPIkwjg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ejercicio4_JoseAngel.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/dam-2/sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-3/ejercicios/EjerciciosPython"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6379b1fd-1b65-4a02-ab0f-16dd492c9281" name="Changes" comment="" />
+      <created>1731864131017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731864131017</updated>
+    </task>
+    <servers />
+  </component>
+</project>

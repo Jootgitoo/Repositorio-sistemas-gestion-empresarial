@@ -2,30 +2,21 @@
 
 def es_Primo(numero):
 
-    primo = False
-    suma = 0
-
     if numero < 2:
-        primo = False
+        return False
 
-    for i in range (2, numero):
+    for i in range(2, int(numero ** 0.5) + 1):
         if (numero % i) == 0:
-            primo = False
-        else:
-            primo = True
-
-
-
-    return primo
-
+            return False
+    return True
 
 def suma_primos(numero):
-
     suma = 0
 
-    for i in range (numero):
-        if ( es_Primo(i) == True):
-            suma +=  i
+    for numero in range(2, numero + 1):
+        if es_Primo(numero):
+            suma += numero
+
 
     print(suma)
 
