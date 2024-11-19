@@ -14,6 +14,7 @@ def ahorcado():
 
     #Guardamos la palabra elegida
     palabra_elegida = array_palabras[ random.randint(0, len(array_palabras) -1) ]
+    palabra_elegida = palabra_elegida.lower()
 
     #Escribimos _ por cada letra de la palabra
     seguimiento_palabra = "_" * len(palabra_elegida)
@@ -31,8 +32,10 @@ def ahorcado():
 
             #Mostramos el seguimiento de la palabra
             nuevo_seguimiento = ""
-            for letra in palabra_elegida:
-                if letra in letras_adivinadas:
+
+            #Enumerate es para iterar sobre cada letra que haya en palabra_elegida
+            for i, letra in enumerate(palabra_elegida):
+                if letra == letra_dicha_usuario or seguimiento_palabra[i] != "_" :
                     nuevo_seguimiento += letra
                 else:
                     nuevo_seguimiento += "_"
@@ -42,9 +45,11 @@ def ahorcado():
             vidas -= 1
             print("No has adivinado la letra :(")
 
+
         #Comprobamos si has adivinado la palabra
         if "_" not in seguimiento_palabra:
             print(f"¡Felicidades! Has adivinado la palabra: {palabra_elegida}")
+            print(f"La palabra era {palabra_elegida}")
             break
     else:
         print(f"Has perdido. La palabra era: {palabra_elegida}")
