@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6379b1fd-1b65-4a02-ab0f-16dd492c9281" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/ManejoFicheros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Carne/Albondigas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Carne/CarneConPatatas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Ensaladas/EnsaladaGriega.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Ensaladas/EnsaladaMedierranea.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Pastas/Bolonesa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Pastas/Carbonara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Postre/Flan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Postre/Tarta.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EjerciciosPython/.idea/EjerciciosPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/.idea/EjerciciosPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EjerciciosPython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio4/Ahorcado.py" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio4/Ahorcado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/ManejoFicheros.py" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/ManejoFicheros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Carne/Albondigas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosPython/Ejercicio5/Recetas/Carne/CarneConPatatas.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ejerciciosPython_JoseAngel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ejerciciosPython_JoseAngel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,13 +37,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/dam-2/sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-3/ejercicios/ejerciciosPython_JoseAngel"
+    "last_opened_file_path": "D:/dam-2/sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-3/ejercicios/EjerciciosPython"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>

@@ -1,6 +1,6 @@
 # TEMA 1: SISTEMAS ERP-CRM
 ### ¿QUE ES UN ERP?
-Un ERP es un sistema de gestión global para la empresa. Está compuesto por diferentes módulos y se utilizan en la producción, ventas, compras..
+Un ERP (Enterprise Resource Planning) es un sistema de gestión global para la empresa. Está compuesto por diferentes módulos y se utilizan en la producción, ventas, compras..
 
 ------
 ### OBJETIVOS DE UN ERP
