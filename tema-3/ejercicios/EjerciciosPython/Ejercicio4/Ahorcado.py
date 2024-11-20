@@ -18,7 +18,6 @@ def ahorcado():
 
     #Escribimos _ por cada letra de la palabra
     seguimiento_palabra = "_" * len(palabra_elegida)
-    letras_adivinadas = []
 
     #Mientras que tengamos vidas
     while (vidas > 0):
